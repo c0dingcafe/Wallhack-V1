@@ -9,3 +9,6 @@
 
 
 // thanks for installing leave a star if you liked it...
+
+
+**USE AT YOUR OWN RISK**
